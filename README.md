@@ -161,3 +161,13 @@ python -m pytest -v
 ```
 
 Son 33 tests de integración que usan la API contra Mongo real, en una base aparte (`gym_test`) que se recarga antes de cada test, así que la base `gym` no se modifica. Cubren el CRUD completo, las validaciones y los códigos de error, la asignación de planes y el caso de consistencia, incluidas una falla simulada en medio de la transacción y una prueba de concurrencia (5 registros simultáneos del último cupo: solo uno tiene éxito).
+
+## Análisis de datos
+
+`analisis/analisis.ipynb` responde cuándo se llena el gym, si los planes están bien dimensionados y qué clientes hay que contactar. Los gráficos quedan guardados en `analisis/graficos/`.
+
+Para abrirlo, usá VS Code (con la extensión Jupyter, eligiendo el kernel `.venv`) o corré:
+
+```bash
+jupyter notebook analisis/analisis.ipynb
+```
