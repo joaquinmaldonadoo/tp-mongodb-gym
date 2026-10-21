@@ -1,0 +1,72 @@
+Índices de clientes:
+  _id_: {"_id":1}
+  dni_unico: {"dni":1}
+  vencimiento_plan: {"plan_actual.fecha_vencimiento":1}
+Índices de asistencias:
+  _id_: {"_id":1}
+  cliente_fecha: {"cliente_id":1,"fecha_hora":-1}
+
+=== Buscar cliente por DNI (39228452) ===
+
+  Sin índice (recorrido completo):
+    Plan:                 COLLSCAN
+    Documentos devueltos: 1
+    Claves examinadas:    0
+    Documentos leídos:    92
+    Tiempo (ms):          0
+
+  Con índice:
+    Plan:                 FETCH <- IXSCAN(dni_unico)
+    Documentos devueltos: 1
+    Claves examinadas:    1
+    Documentos leídos:    1
+    Tiempo (ms):          0
+
+=== Historial de asistencias de un cliente, más reciente primero ===
+
+  Sin índice (recorrido completo):
+    Plan:                 SORT <- COLLSCAN
+    Documentos devueltos: 16
+    Claves examinadas:    0
+    Documentos leídos:    388
+    Tiempo (ms):          0
+
+  Con índice:
+    Plan:                 FETCH <- IXSCAN(cliente_fecha)
+    Documentos devueltos: 16
+    Claves examinadas:    16
+    Documentos leídos:    16
+    Tiempo (ms):          0
+
+=== Planes que vencen en los próximos 7 días ===
+
+  Sin índice (recorrido completo):
+    Plan:                 COLLSCAN
+    Documentos devueltos: 13
+    Claves examinadas:    0
+    Documentos leídos:    92
+    Tiempo (ms):          0
+
+  Con índice:
+    Plan:                 FETCH <- IXSCAN(vencimiento_plan)
+    Documentos devueltos: 13
+    Claves examinadas:    13
+    Documentos leídos:    13
+    Tiempo (ms):          0
+
+=== Tamaño de los índices (bytes) ===
+{
+  clientes: {
+    _id_: 20480,
+    dni_unico: 24576,
+    vencimiento_plan: 20480
+  },
+  asistencias: {
+    _id_: 45056,
+    cliente_fecha: 45056
+  }
+}
+
+Cada índice ocupa espacio y hace más lentas las escrituras, porque cada insert o update
+también actualiza el índice. Por eso no se indexan campos como 'objetivos' o 'actividad':
+tienen pocos valores distintos y se consultan poco, así que el índice no ahorraría casi nada.

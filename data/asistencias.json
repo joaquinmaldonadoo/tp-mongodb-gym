@@ -1,0 +1,5313 @@
+[
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d12"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d10"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T21:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d11"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d10"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T10:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d13"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d10"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T14:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d16"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d14"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T23:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d15"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d14"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-21T00:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d1f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-10T20:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d19"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T23:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d1e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T00:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d1c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d1b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T16:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d1d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T16:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d18"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T12:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d1a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T21:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d24"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T19:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d21"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T22:30:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d25"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T19:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d28"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T10:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d27"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T21:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d23"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T22:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d26"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T23:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d22"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T21:15:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d2e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d29"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T21:30:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d2a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d29"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T10:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d2c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d29"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T11:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d2d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d29"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T23:15:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d2b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d29"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T00:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d37"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-26T21:30:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d33"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T10:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d3e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-29T22:35:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 13
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d3b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T23:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 12
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d39"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-02T11:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d3f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T16:00:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d38"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T11:10:00Z"
+    },
+    "actividad": "movilidad",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d32"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T23:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d30"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T22:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d31"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T20:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d34"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T10:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d36"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T13:10:00Z"
+    },
+    "actividad": "movilidad",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d3a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T21:35:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d3c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T11:35:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d3d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T23:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d35"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T11:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d44"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T22:15:00Z"
+    },
+    "actividad": "hyrox",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d46"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T21:15:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d45"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T22:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d49"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T10:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d41"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T21:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d43"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T16:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d48"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T10:10:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d47"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T12:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d42"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T22:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d4c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T21:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d4b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T21:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d4f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-27T00:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d50"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T10:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d59"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-29T14:30:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d52"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T21:00:00Z"
+    },
+    "actividad": "hyrox",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d51"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T21:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d54"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T10:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d58"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T20:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d55"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T21:30:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d4e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T11:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d57"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T22:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d56"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T21:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d53"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:05:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d60"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d5a"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-29T12:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d5d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d5a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T12:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d5b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d5a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T23:10:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d5f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d5a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T21:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d5e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d5a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T23:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d5c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d5a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T16:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d62"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d61"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T11:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d63"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d61"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T12:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d68"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d64"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T22:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d66"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d64"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T21:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d65"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d64"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T22:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d67"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d64"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T10:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d6a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d69"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T22:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d6b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d69"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T20:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d71"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T10:30:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d6f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T22:10:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d6e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T22:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d70"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T13:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d6d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T20:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d73"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d72"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T11:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d79"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d74"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T11:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d75"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d74"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d78"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d74"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T20:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d76"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d74"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T22:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d77"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d74"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T18:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d7d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-30T21:35:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d7f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T22:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d7e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T15:10:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d80"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T13:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d7b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-11T00:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d81"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T20:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d7c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T11:30:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d87"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d82"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T22:10:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d83"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d82"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T10:45:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d84"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d82"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T11:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 13
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d85"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d82"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T00:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 12
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d86"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d82"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T20:05:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d8b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d88"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T00:10:00Z"
+    },
+    "actividad": "hyrox",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d89"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d88"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T13:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d8c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d88"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T20:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d8a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d88"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T22:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d8e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d8d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d90"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d8f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d96"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d91"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T14:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d92"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d91"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T13:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d93"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d91"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T21:35:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d97"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d91"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T23:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d94"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d91"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T12:30:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d95"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d91"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T22:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d9c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d98"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T15:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d99"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d98"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T22:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d9d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d98"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T22:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d9a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d98"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T19:00:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d9b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d98"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T22:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d9f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d9e"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T18:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da0"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d9e"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T22:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186d9e"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T12:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dab"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-29T19:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-30T22:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T14:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 13
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-02T11:10:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 12
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dac"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T10:30:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T11:30:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T11:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T15:30:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dad"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T21:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186daa"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T23:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T10:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dae"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T21:45:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db0"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dae"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T21:30:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186daf"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dae"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T10:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 13
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186db2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T21:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186db2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T23:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186db5"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T22:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186db5"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T22:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186db5"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T13:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186db5"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T17:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dbc"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dba"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T10:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dbf"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dba"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-30T23:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dbe"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dba"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T23:15:00Z"
+    },
+    "actividad": "hyrox",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dbb"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dba"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T21:10:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dbd"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dba"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T16:00:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dc0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T11:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dc2"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T21:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dc4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T10:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dc4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-30T22:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dc4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T21:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dc4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T22:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dc4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T20:05:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dcc"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dca"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T11:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dcd"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dca"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T10:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dcb"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dca"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T23:30:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd2"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T23:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T13:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T22:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T15:10:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T10:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd0"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T21:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dcf"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dd7"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T22:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dda"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dd9"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T22:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ddc"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dd9"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T11:45:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ddb"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dd9"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dde"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-02T21:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-03T22:10:00Z"
+    },
+    "actividad": "funcional"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T21:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ddf"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T22:15:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de0"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T11:35:00Z"
+    },
+    "actividad": "musculacion"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T22:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de2"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T14:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T16:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T16:35:00Z"
+    },
+    "actividad": "movilidad"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T11:30:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dee"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T11:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T22:35:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dea"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T23:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186deb"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T23:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186def"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T15:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dec"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T22:30:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ded"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T20:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df2"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T11:35:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T13:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T21:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T11:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T10:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dfa"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T12:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T20:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186df4"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T11:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dfc"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfb"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T00:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dfd"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfb"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T23:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e01"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T20:30:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dff"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T00:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e05"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T10:10:00Z"
+    },
+    "actividad": "hyrox",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e00"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T22:10:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e04"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T20:30:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e02"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T20:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e03"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T13:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e07"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e06"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T13:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e08"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e06"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e09"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e06"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T19:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e0d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e0a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T00:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e0e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e0a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T11:45:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e0c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e0a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T15:10:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e0b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e0a"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T22:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e10"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e0f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T23:15:00Z"
+    },
+    "actividad": "hyrox",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e12"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e11"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T23:45:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e14"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e11"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T14:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e13"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e11"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T23:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e1b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T18:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e17"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T23:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e1a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T21:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e19"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T10:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e1c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T22:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e16"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T20:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e18"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T13:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e1f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e1d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T10:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e1e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e1d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T23:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e24"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T00:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e22"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T23:15:00Z"
+    },
+    "actividad": "movilidad"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e21"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-10T22:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e23"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e20"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T22:35:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e27"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-26T11:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e26"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T21:30:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e29"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-02T00:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e28"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T10:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e2c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T16:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e2a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T22:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e2b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T20:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e2e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e2d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T21:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e32"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T22:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e31"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:35:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e30"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e2f"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T11:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e34"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e33"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T21:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e38"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e35"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T11:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e36"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e35"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-30T23:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e3b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e35"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T10:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e3a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e35"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T13:30:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e39"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e35"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T10:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e37"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e35"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T21:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e3d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e3c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T21:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e3e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e3c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T14:45:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e3f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e3c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T12:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e42"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-03T17:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e45"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T21:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e46"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T22:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 13
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e44"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-10T14:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 12
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e41"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T11:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e43"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e40"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T14:35:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e4a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e47"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T11:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e48"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e47"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T22:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e49"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e47"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:30:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e4c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4b"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T14:30:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e54"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-25T12:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e56"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-26T10:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e4f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-30T00:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e57"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-03T15:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e4e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T22:15:00Z"
+    },
+    "actividad": "funcional"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e53"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T22:10:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e55"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T21:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e51"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T11:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e52"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:30:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e50"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T11:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e5f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T21:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e5d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T16:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e59"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T10:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e5b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T14:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e5c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T11:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e5a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T21:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e5e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T22:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e61"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e60"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T22:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e62"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e60"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T19:30:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e68"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T22:45:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e69"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T12:45:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e65"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-08T12:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 13
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e6b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-10T11:05:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 12
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e64"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T23:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e66"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e67"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T22:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e6a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T12:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e6d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T23:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e73"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T14:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e6f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:45:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e74"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T23:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e72"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T22:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e70"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T23:15:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e6e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T21:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e71"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T23:00:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e76"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e75"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e7b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e77"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e79"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e77"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T10:10:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e7a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e77"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T22:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e78"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e77"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T16:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e82"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T23:30:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e7d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T21:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e7f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-13T21:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e84"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T10:00:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e81"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T10:00:00Z"
+    },
+    "actividad": "movilidad"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e85"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-16T20:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e80"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-17T22:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e7e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:45:00Z"
+    },
+    "actividad": "movilidad"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e83"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-21T00:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e88"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e86"
+    },
+    "fecha_hora": {
+      "$date": "2026-08-31T21:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e87"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e86"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-05T17:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e8d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-14T23:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e8c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-16T22:30:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e91"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-19T22:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e8e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-22T00:00:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e90"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-24T22:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e8b"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T20:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e8f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T16:10:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e8a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-09T14:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e95"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-01T20:05:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e99"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-10T00:05:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e98"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-14T20:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e93"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-22T11:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e97"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-23T20:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e9a"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-24T15:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e96"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-25T11:10:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e94"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T10:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e9f"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-08T10:45:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-09T21:45:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea0"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-10T22:10:00Z"
+    },
+    "actividad": "musculacion",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea2"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-15T21:45:00Z"
+    },
+    "actividad": "crossfit",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e9d"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-27T00:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e9c"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T21:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e9e"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T11:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-02T14:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ea4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-03T10:30:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ea4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-04T13:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ea4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-07T11:05:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ea4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-11T22:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ea4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-16T22:45:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eaa"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ea4"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-22T10:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb0"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-16T11:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eae"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-17T12:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb2"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-26T00:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eac"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T23:30:00Z"
+    },
+    "actividad": "funcional",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ead"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T22:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eaf"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T11:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T15:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eb3"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-01T22:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eb3"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-03T22:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eb3"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-21T21:35:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eb3"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-25T00:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eba"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eb8"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-10T11:15:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ebb"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eb8"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-20T00:15:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eb8"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-22T22:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ebf"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ebc"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-18T13:00:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ebe"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ebc"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-23T21:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ebc"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-26T15:05:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec0"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ebc"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-29T23:10:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ebd"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ebc"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T23:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-01T23:35:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-02T21:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-03T22:05:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eca"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-04T11:30:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-23T11:15:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-24T10:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T21:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-29T22:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ed2"
+    },
+    "fecha_hora": {
+      "$date": "2026-05-16T23:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ed2"
+    },
+    "fecha_hora": {
+      "$date": "2026-05-20T21:00:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ed2"
+    },
+    "fecha_hora": {
+      "$date": "2026-05-22T22:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 1
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186edb"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eda"
+    },
+    "fecha_hora": {
+      "$date": "2026-07-08T23:10:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186edc"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186eda"
+    },
+    "fecha_hora": {
+      "$date": "2026-07-09T23:30:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Pato",
+    "cupos_restantes_post": 2
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186edf"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ede"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-19T22:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee1"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-22T10:35:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Lucho",
+    "cupos_restantes_post": 15
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee5"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-26T23:45:00Z"
+    },
+    "actividad": "musculacion",
+    "coach": "Lucho",
+    "cupos_restantes_post": 14
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee6"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-28T10:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 13
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eed"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-29T15:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 12
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee3"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-09-30T13:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 11
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee2"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-01T10:30:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 10
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eea"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-02T21:35:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 9
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee9"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-05T20:15:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 8
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee7"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-06T21:45:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 7
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eeb"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-07T23:30:00Z"
+    },
+    "actividad": "hyrox",
+    "coach": "Nico",
+    "cupos_restantes_post": 6
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee8"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-12T21:00:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Vale",
+    "cupos_restantes_post": 5
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eee"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-14T19:05:00Z"
+    },
+    "actividad": "crossfit",
+    "coach": "Nico",
+    "cupos_restantes_post": 4
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eec"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-15T20:30:00Z"
+    },
+    "actividad": "funcional",
+    "coach": "Vale",
+    "cupos_restantes_post": 3
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee4"
+    },
+    "cliente_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "fecha_hora": {
+      "$date": "2026-10-20T00:10:00Z"
+    },
+    "actividad": "movilidad",
+    "coach": "Sol",
+    "cupos_restantes_post": 2
+  }
+]

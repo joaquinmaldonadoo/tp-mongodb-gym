@@ -8,6 +8,7 @@ services:
       - "${MONGO_PORT:-27017}:27017"
     volumes:
       - mongo_data:/data/db   # persistencia: los datos sobreviven a docker compose down
+      - ./queries:/queries:ro # para correr las consultas con mongosh dentro del contenedor
     healthcheck:
       # Inicializa el replica set la primera vez y después solo verifica que esté vivo
       test: >

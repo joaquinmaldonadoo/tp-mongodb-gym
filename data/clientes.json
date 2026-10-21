@@ -1,0 +1,2931 @@
+[
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d10"
+    },
+    "dni": "39228452",
+    "nombre": "Florencia",
+    "apellido": "Rodríguez",
+    "fecha_alta": {
+      "$date": "2025-07-16T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "florencia.rodriguez18@mail.com",
+    "telefono": "3516838283",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 27000,
+      "cupos_totales": 8,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-10-17T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-16T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d14"
+    },
+    "dni": "41541238",
+    "nombre": "Agustina",
+    "apellido": "Aguirre",
+    "fecha_alta": {
+      "$date": "2026-03-09T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustina.aguirre6@mail.com",
+    "telefono": "3516249103",
+    "objetivos": [
+      "fuerza",
+      "movilidad"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Lautaro Aguirre",
+      "telefono": "3516421590"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 14,
+      "fecha_inicio": {
+        "$date": "2026-10-18T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-17T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d17"
+    },
+    "dni": "47922760",
+    "nombre": "Camila",
+    "apellido": "Romero",
+    "fecha_alta": {
+      "$date": "2025-02-28T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "camila.romero21@mail.com",
+    "telefono": "3515132243",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 0,
+      "fecha_inicio": {
+        "$date": "2026-10-09T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-08T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d20"
+    },
+    "dni": "38837869",
+    "nombre": "Matías",
+    "apellido": "González",
+    "fecha_alta": {
+      "$date": "2025-11-20T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3516129371",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 22500,
+      "cupos_totales": 8,
+      "cupos_restantes": 0,
+      "fecha_inicio": {
+        "$date": "2026-10-03T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-02T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d29"
+    },
+    "dni": "32261579",
+    "nombre": "Valentina",
+    "apellido": "Ruiz",
+    "fecha_alta": {
+      "$date": "2025-05-25T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3514297197",
+    "objetivos": [
+      "competir",
+      "resistencia"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Micaela Ruiz",
+      "telefono": "3516395128"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 3,
+      "fecha_inicio": {
+        "$date": "2026-10-04T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-03T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d2f"
+    },
+    "dni": "43636992",
+    "nombre": "Catalina",
+    "apellido": "Romero",
+    "fecha_alta": {
+      "$date": "2025-07-15T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "catalina.romero28@mail.com",
+    "telefono": "3514245934",
+    "objetivos": [
+      "resistencia"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Matías Romero",
+      "telefono": "3515196421"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 0,
+      "fecha_inicio": {
+        "$date": "2026-09-26T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-26T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d40"
+    },
+    "dni": "42388832",
+    "nombre": "Carolina",
+    "apellido": "Gómez",
+    "fecha_alta": {
+      "$date": "2026-06-08T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "carolina.gomez19@mail.com",
+    "telefono": "3514175442",
+    "objetivos": [
+      "bajar de peso"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Catalina Gómez",
+      "telefono": "3516797321"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 3,
+      "fecha_inicio": {
+        "$date": "2026-10-02T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-01T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d4a"
+    },
+    "dni": "36377985",
+    "nombre": "Florencia",
+    "apellido": "Molina",
+    "fecha_alta": {
+      "$date": "2026-03-04T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "florencia.molina91@mail.com",
+    "telefono": "3516180703",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 10,
+      "fecha_inicio": {
+        "$date": "2026-10-17T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-16T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d4d"
+    },
+    "dni": "40098202",
+    "nombre": "Franco",
+    "apellido": "Sosa",
+    "fecha_alta": {
+      "$date": "2026-02-15T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "franco.sosa1@mail.com",
+    "telefono": "3514881570",
+    "objetivos": [
+      "movilidad",
+      "competir",
+      "bajar de peso"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Gonzalo Sosa",
+      "telefono": "3516833786"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 0,
+      "fecha_inicio": {
+        "$date": "2026-09-24T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-24T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d5a"
+    },
+    "dni": "43920656",
+    "nombre": "Milagros",
+    "apellido": "López",
+    "fecha_alta": {
+      "$date": "2026-09-01T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "milagros.lopez70@mail.com",
+    "telefono": "3514261161",
+    "objetivos": [
+      "resistencia",
+      "movilidad"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 25000,
+      "cupos_totales": 8,
+      "cupos_restantes": 2,
+      "fecha_inicio": {
+        "$date": "2026-09-25T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-25T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d61"
+    },
+    "dni": "32748317",
+    "nombre": "Juan Cruz",
+    "apellido": "Flores",
+    "fecha_alta": {
+      "$date": "2026-08-11T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "juancruz.flores96@mail.com",
+    "telefono": "3515467840",
+    "objetivos": [
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 14,
+      "fecha_inicio": {
+        "$date": "2026-10-12T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-11T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d64"
+    },
+    "dni": "33627192",
+    "nombre": "Paula",
+    "apellido": "Medina",
+    "fecha_alta": {
+      "$date": "2026-01-16T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "paula.medina40@mail.com",
+    "telefono": "3515574151",
+    "objetivos": [
+      "hyrox",
+      "fuerza",
+      "movilidad"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 4,
+      "fecha_inicio": {
+        "$date": "2026-09-25T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-25T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d69"
+    },
+    "dni": "38237450",
+    "nombre": "Santiago",
+    "apellido": "Herrera",
+    "fecha_alta": {
+      "$date": "2025-10-12T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "santiago.herrera12@mail.com",
+    "telefono": "3515890800",
+    "objetivos": [
+      "movilidad",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 6,
+      "fecha_inicio": {
+        "$date": "2026-10-09T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-08T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d6c"
+    },
+    "dni": "46469231",
+    "nombre": "Catalina",
+    "apellido": "Juárez",
+    "fecha_alta": {
+      "$date": "2025-09-09T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "catalina.juarez3@mail.com",
+    "telefono": "3514929442",
+    "objetivos": [
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-03T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-02T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d72"
+    },
+    "dni": "33442270",
+    "nombre": "Micaela",
+    "apellido": "Cabrera",
+    "fecha_alta": {
+      "$date": "2026-07-17T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3515968793",
+    "objetivos": [
+      "hyrox",
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Bruno Cabrera",
+      "telefono": "3514478516"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 34200,
+      "cupos_totales": 12,
+      "cupos_restantes": 11,
+      "fecha_inicio": {
+        "$date": "2026-10-17T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-16T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d74"
+    },
+    "dni": "47534624",
+    "nombre": "Juan Cruz",
+    "apellido": "Ruiz",
+    "fecha_alta": {
+      "$date": "2026-06-12T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "juancruz.ruiz57@mail.com",
+    "telefono": "3516468453",
+    "contacto_emergencia": {
+      "nombre": "Valentina Ruiz",
+      "telefono": "3516556977"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0d"
+      },
+      "nombre": "Libre",
+      "precio_pagado": 55000,
+      "cupos_totales": null,
+      "cupos_restantes": null,
+      "fecha_inicio": {
+        "$date": "2026-10-13T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-12T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d7a"
+    },
+    "dni": "43505944",
+    "nombre": "Matías",
+    "apellido": "Medina",
+    "fecha_alta": {
+      "$date": "2026-08-26T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3516071127",
+    "objetivos": [
+      "fuerza",
+      "resistencia",
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 1,
+      "fecha_inicio": {
+        "$date": "2026-09-28T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-28T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d82"
+    },
+    "dni": "38960920",
+    "nombre": "Valentina",
+    "apellido": "Torres",
+    "fecha_alta": {
+      "$date": "2026-01-19T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "valentina.torres37@mail.com",
+    "telefono": "3516928672",
+    "objetivos": [
+      "competir"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 11,
+      "fecha_inicio": {
+        "$date": "2026-10-10T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-09T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d88"
+    },
+    "dni": "44983644",
+    "nombre": "Thiago",
+    "apellido": "Sánchez",
+    "fecha_alta": {
+      "$date": "2026-01-20T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "thiago.sanchez45@mail.com",
+    "telefono": "3516279310",
+    "objetivos": [
+      "salud",
+      "hyrox"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 34200,
+      "cupos_totales": 12,
+      "cupos_restantes": 8,
+      "fecha_inicio": {
+        "$date": "2026-10-12T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-11T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d8d"
+    },
+    "dni": "43337327",
+    "nombre": "Mateo",
+    "apellido": "Suárez",
+    "fecha_alta": {
+      "$date": "2025-05-10T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "mateo.suarez43@mail.com",
+    "telefono": "3516238174",
+    "objetivos": [
+      "competir",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 25000,
+      "cupos_totales": 8,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-18T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-17T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d8f"
+    },
+    "dni": "35582275",
+    "nombre": "Agustina",
+    "apellido": "Núñez",
+    "fecha_alta": {
+      "$date": "2026-03-21T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustina.nunez4@mail.com",
+    "telefono": "3514235381",
+    "objetivos": [
+      "resistencia",
+      "hyrox"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Juan Cruz Núñez",
+      "telefono": "3516373674"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-17T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-16T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d91"
+    },
+    "dni": "30315325",
+    "nombre": "Matías",
+    "apellido": "Flores",
+    "fecha_alta": {
+      "$date": "2025-11-19T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3515206414",
+    "objetivos": [
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Nicolás Flores",
+      "telefono": "3516464454"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 6,
+      "fecha_inicio": {
+        "$date": "2026-10-06T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-05T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d98"
+    },
+    "dni": "39902263",
+    "nombre": "Micaela",
+    "apellido": "Díaz",
+    "fecha_alta": {
+      "$date": "2025-09-12T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "micaela.diaz54@mail.com",
+    "telefono": "3514554318",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-11T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-10T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d9e"
+    },
+    "dni": "32121211",
+    "nombre": "Benjamín",
+    "apellido": "Ruiz",
+    "fecha_alta": {
+      "$date": "2025-05-05T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "benjamin.ruiz60@mail.com",
+    "objetivos": [
+      "fuerza",
+      "hyrox"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Sofía Ruiz",
+      "telefono": "3515276597"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-10-12T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-11T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186da2"
+    },
+    "dni": "42035097",
+    "nombre": "Agustina",
+    "apellido": "Giménez",
+    "fecha_alta": {
+      "$date": "2026-06-20T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustina.gimenez36@mail.com",
+    "telefono": "3514512374",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-09-29T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-29T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dae"
+    },
+    "dni": "44430752",
+    "nombre": "Florencia",
+    "apellido": "Torres",
+    "fecha_alta": {
+      "$date": "2026-04-18T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "florencia.torres30@mail.com",
+    "telefono": "3515902112",
+    "objetivos": [
+      "fuerza",
+      "bajar de peso",
+      "resistencia"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Mateo Torres",
+      "telefono": "3515569932"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 40500,
+      "cupos_totales": 16,
+      "cupos_restantes": 13,
+      "fecha_inicio": {
+        "$date": "2026-10-04T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-03T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db2"
+    },
+    "dni": "41799288",
+    "nombre": "Joaquín",
+    "apellido": "Medina",
+    "fecha_alta": {
+      "$date": "2025-09-10T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "joaquin.medina65@mail.com",
+    "telefono": "3516754551",
+    "objetivos": [
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 6,
+      "fecha_inicio": {
+        "$date": "2026-10-11T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-10T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186db5"
+    },
+    "dni": "36086960",
+    "nombre": "Nicolás",
+    "apellido": "González",
+    "fecha_alta": {
+      "$date": "2026-02-13T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3515681011",
+    "objetivos": [
+      "competir",
+      "fuerza",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 34200,
+      "cupos_totales": 12,
+      "cupos_restantes": 8,
+      "fecha_inicio": {
+        "$date": "2026-10-05T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-04T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dba"
+    },
+    "dni": "30257935",
+    "nombre": "Ignacio",
+    "apellido": "Fernández",
+    "fecha_alta": {
+      "$date": "2026-05-12T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "ignacio.fernandez28@mail.com",
+    "telefono": "3515071726",
+    "objetivos": [
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Agustín Fernández",
+      "telefono": "3514736917"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-09-27T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-27T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc0"
+    },
+    "dni": "37434724",
+    "nombre": "Tomás",
+    "apellido": "Suárez",
+    "fecha_alta": {
+      "$date": "2026-04-23T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "tomas.suarez22@mail.com",
+    "telefono": "3516655936",
+    "objetivos": [
+      "hyrox",
+      "bajar de peso",
+      "competir"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-15T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-14T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc2"
+    },
+    "dni": "40607861",
+    "nombre": "Gonzalo",
+    "apellido": "Herrera",
+    "fecha_alta": {
+      "$date": "2025-06-06T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "gonzalo.herrera9@mail.com",
+    "telefono": "3516648221",
+    "objetivos": [
+      "movilidad",
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Camila Herrera",
+      "telefono": "3515301944"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 11,
+      "fecha_inicio": {
+        "$date": "2026-10-18T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-17T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dc4"
+    },
+    "dni": "36316268",
+    "nombre": "Sofía",
+    "apellido": "Núñez",
+    "fecha_alta": {
+      "$date": "2026-03-29T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "sofia.nunez61@mail.com",
+    "telefono": "3514259517",
+    "objetivos": [
+      "competir",
+      "fuerza"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 3,
+      "fecha_inicio": {
+        "$date": "2026-09-27T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-27T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dca"
+    },
+    "dni": "47062042",
+    "nombre": "Julieta",
+    "apellido": "Silva",
+    "fecha_alta": {
+      "$date": "2026-04-16T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "julieta.silva47@mail.com",
+    "telefono": "3514898389",
+    "objetivos": [
+      "hyrox",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-09-24T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-24T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dce"
+    },
+    "dni": "47918440",
+    "nombre": "Gonzalo",
+    "apellido": "Ruiz",
+    "fecha_alta": {
+      "$date": "2025-08-26T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "gonzalo.ruiz61@mail.com",
+    "objetivos": [
+      "movilidad",
+      "resistencia",
+      "competir"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 4,
+      "fecha_inicio": {
+        "$date": "2026-10-06T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-05T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd7"
+    },
+    "dni": "39667084",
+    "nombre": "Agustín",
+    "apellido": "Pérez",
+    "fecha_alta": {
+      "$date": "2025-04-28T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustin.perez16@mail.com",
+    "telefono": "3515760875",
+    "objetivos": [
+      "resistencia",
+      "fuerza",
+      "competir"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 11,
+      "fecha_inicio": {
+        "$date": "2026-10-19T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-18T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dd9"
+    },
+    "dni": "47565226",
+    "nombre": "Ailín",
+    "apellido": "Díaz",
+    "fecha_alta": {
+      "$date": "2026-08-08T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3516206453",
+    "objetivos": [
+      "movilidad",
+      "fuerza",
+      "resistencia"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 9,
+      "fecha_inicio": {
+        "$date": "2026-10-08T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-07T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ddd"
+    },
+    "dni": "32117302",
+    "nombre": "Ailín",
+    "apellido": "García",
+    "fecha_alta": {
+      "$date": "2025-08-10T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "ailin.garcia59@mail.com",
+    "telefono": "3514845533",
+    "objetivos": [
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Tomás García",
+      "telefono": "3516161675"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0d"
+      },
+      "nombre": "Libre",
+      "precio_pagado": 49500,
+      "cupos_totales": null,
+      "cupos_restantes": null,
+      "fecha_inicio": {
+        "$date": "2026-10-02T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-01T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186de8"
+    },
+    "dni": "42447503",
+    "nombre": "Carolina",
+    "apellido": "Núñez",
+    "fecha_alta": {
+      "$date": "2026-03-15T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "carolina.nunez98@mail.com",
+    "telefono": "3514577535",
+    "objetivos": [
+      "bajar de peso",
+      "competir"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Florencia Núñez",
+      "telefono": "3514108688"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 34200,
+      "cupos_totales": 12,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-10-07T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-06T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df0"
+    },
+    "dni": "47639419",
+    "nombre": "Ignacio",
+    "apellido": "Juárez",
+    "fecha_alta": {
+      "$date": "2025-03-06T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "ignacio.juarez53@mail.com",
+    "telefono": "3514309332",
+    "objetivos": [
+      "competir",
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Nicolás Juárez",
+      "telefono": "3514538274"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 34200,
+      "cupos_totales": 12,
+      "cupos_restantes": 9,
+      "fecha_inicio": {
+        "$date": "2026-10-14T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-13T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186df4"
+    },
+    "dni": "46863556",
+    "nombre": "Tomás",
+    "apellido": "Díaz",
+    "fecha_alta": {
+      "$date": "2026-06-30T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "tomas.diaz76@mail.com",
+    "objetivos": [
+      "movilidad",
+      "competir",
+      "salud"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Sofía Díaz",
+      "telefono": "3514119007"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 2,
+      "fecha_inicio": {
+        "$date": "2026-09-29T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-29T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dfb"
+    },
+    "dni": "35358631",
+    "nombre": "Juan Cruz",
+    "apellido": "Ramírez",
+    "fecha_alta": {
+      "$date": "2025-11-10T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "juancruz.ramirez74@mail.com",
+    "telefono": "3514796221",
+    "contacto_emergencia": {
+      "nombre": "Matías Ramírez",
+      "telefono": "3516091949"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 10,
+      "fecha_inicio": {
+        "$date": "2026-10-17T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-16T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186dfe"
+    },
+    "dni": "38874237",
+    "nombre": "Agustín",
+    "apellido": "García",
+    "fecha_alta": {
+      "$date": "2026-07-08T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustin.garcia98@mail.com",
+    "telefono": "3514189760",
+    "objetivos": [
+      "movilidad",
+      "hyrox",
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-10-05T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-04T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e06"
+    },
+    "dni": "38909722",
+    "nombre": "Martina",
+    "apellido": "Juárez",
+    "fecha_alta": {
+      "$date": "2026-01-16T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3516426297",
+    "objetivos": [
+      "fuerza",
+      "movilidad",
+      "resistencia"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Franco Juárez",
+      "telefono": "3514619816"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-09-27T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-27T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e0a"
+    },
+    "dni": "36451314",
+    "nombre": "Mateo",
+    "apellido": "Juárez",
+    "fecha_alta": {
+      "$date": "2025-05-09T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3515251996",
+    "objetivos": [
+      "salud",
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 8,
+      "fecha_inicio": {
+        "$date": "2026-10-08T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-07T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e0f"
+    },
+    "dni": "38028973",
+    "nombre": "Micaela",
+    "apellido": "Martínez",
+    "fecha_alta": {
+      "$date": "2026-06-11T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "micaela.martinez86@mail.com",
+    "objetivos": [
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Facundo Martínez",
+      "telefono": "3515981405"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 15,
+      "fecha_inicio": {
+        "$date": "2026-10-15T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-14T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e11"
+    },
+    "dni": "40776599",
+    "nombre": "Rocío",
+    "apellido": "Benítez",
+    "fecha_alta": {
+      "$date": "2026-03-26T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "rocio.benitez8@mail.com",
+    "objetivos": [
+      "hyrox",
+      "movilidad",
+      "fuerza"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 9,
+      "fecha_inicio": {
+        "$date": "2026-10-14T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-13T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e15"
+    },
+    "dni": "39154893",
+    "nombre": "Micaela",
+    "apellido": "Luna",
+    "fecha_alta": {
+      "$date": "2026-03-08T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "micaela.luna15@mail.com",
+    "telefono": "3515924826",
+    "objetivos": [
+      "hyrox",
+      "fuerza",
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 1,
+      "fecha_inicio": {
+        "$date": "2026-09-29T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-29T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e1d"
+    },
+    "dni": "33765102",
+    "nombre": "Lautaro",
+    "apellido": "López",
+    "fecha_alta": {
+      "$date": "2025-06-26T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "lautaro.lopez71@mail.com",
+    "objetivos": [
+      "hyrox",
+      "salud",
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 6,
+      "fecha_inicio": {
+        "$date": "2026-10-13T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-12T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e20"
+    },
+    "dni": "32450464",
+    "nombre": "Lucía",
+    "apellido": "Torres",
+    "fecha_alta": {
+      "$date": "2026-07-13T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "lucia.torres45@mail.com",
+    "telefono": "3516269804",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0d"
+      },
+      "nombre": "Libre",
+      "precio_pagado": 55000,
+      "cupos_totales": null,
+      "cupos_restantes": null,
+      "fecha_inicio": {
+        "$date": "2026-10-04T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-03T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e25"
+    },
+    "dni": "45535832",
+    "nombre": "Martina",
+    "apellido": "Medina",
+    "fecha_alta": {
+      "$date": "2025-12-13T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "martina.medina70@mail.com",
+    "telefono": "3515590800",
+    "contacto_emergencia": {
+      "nombre": "Nicolás Medina",
+      "telefono": "3514650626"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 1,
+      "fecha_inicio": {
+        "$date": "2026-09-26T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-26T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e2d"
+    },
+    "dni": "43698904",
+    "nombre": "Benjamín",
+    "apellido": "Ortiz",
+    "fecha_alta": {
+      "$date": "2026-04-27T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "benjamin.ortiz49@mail.com",
+    "telefono": "3516256234",
+    "objetivos": [
+      "bajar de peso"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 25000,
+      "cupos_totales": 8,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-18T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-17T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e2f"
+    },
+    "dni": "33102576",
+    "nombre": "Gonzalo",
+    "apellido": "Giménez",
+    "fecha_alta": {
+      "$date": "2026-02-11T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "gonzalo.gimenez25@mail.com",
+    "telefono": "3515581957",
+    "objetivos": [
+      "fuerza",
+      "salud",
+      "hyrox"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 9,
+      "fecha_inicio": {
+        "$date": "2026-10-09T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-08T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e33"
+    },
+    "dni": "33308743",
+    "nombre": "Thiago",
+    "apellido": "Luna",
+    "fecha_alta": {
+      "$date": "2026-02-07T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "thiago.luna93@mail.com",
+    "telefono": "3515343155",
+    "contacto_emergencia": {
+      "nombre": "Juan Cruz Luna",
+      "telefono": "3514191744"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 15,
+      "fecha_inicio": {
+        "$date": "2026-10-19T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-18T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e35"
+    },
+    "dni": "41326777",
+    "nombre": "Catalina",
+    "apellido": "Cabrera",
+    "fecha_alta": {
+      "$date": "2025-09-26T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "catalina.cabrera63@mail.com",
+    "objetivos": [
+      "resistencia",
+      "hyrox"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 2,
+      "fecha_inicio": {
+        "$date": "2026-09-26T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-26T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e3c"
+    },
+    "dni": "32651445",
+    "nombre": "Santiago",
+    "apellido": "Castro",
+    "fecha_alta": {
+      "$date": "2026-08-20T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "santiago.castro52@mail.com",
+    "telefono": "3515020087",
+    "contacto_emergencia": {
+      "nombre": "Julieta Castro",
+      "telefono": "3516741966"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 27000,
+      "cupos_totales": 8,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-10-07T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-06T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e40"
+    },
+    "dni": "31104000",
+    "nombre": "Camila",
+    "apellido": "Acosta",
+    "fecha_alta": {
+      "$date": "2025-08-19T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "camila.acosta41@mail.com",
+    "telefono": "3514868884",
+    "objetivos": [
+      "salud",
+      "resistencia",
+      "fuerza"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Catalina Acosta",
+      "telefono": "3516376894"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 40500,
+      "cupos_totales": 16,
+      "cupos_restantes": 10,
+      "fecha_inicio": {
+        "$date": "2026-10-02T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-01T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e47"
+    },
+    "dni": "44922859",
+    "nombre": "Lucía",
+    "apellido": "Medina",
+    "fecha_alta": {
+      "$date": "2026-06-08T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "lucia.medina35@mail.com",
+    "telefono": "3514366151",
+    "objetivos": [
+      "movilidad",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-10-08T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-07T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e4b"
+    },
+    "dni": "44585315",
+    "nombre": "Camila",
+    "apellido": "Romero",
+    "fecha_alta": {
+      "$date": "2026-03-05T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "camila.romero39@mail.com",
+    "telefono": "3514322631",
+    "objetivos": [
+      "competir"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 11,
+      "fecha_inicio": {
+        "$date": "2026-10-15T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-14T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e4d"
+    },
+    "dni": "40080935",
+    "nombre": "Agustín",
+    "apellido": "García",
+    "fecha_alta": {
+      "$date": "2025-05-07T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustin.garcia89@mail.com",
+    "telefono": "3515317780",
+    "objetivos": [
+      "bajar de peso",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0d"
+      },
+      "nombre": "Libre",
+      "precio_pagado": 55000,
+      "cupos_totales": null,
+      "cupos_restantes": null,
+      "fecha_inicio": {
+        "$date": "2026-09-24T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-24T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e58"
+    },
+    "dni": "33508094",
+    "nombre": "Martina",
+    "apellido": "Juárez",
+    "fecha_alta": {
+      "$date": "2025-09-30T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "martina.juarez11@mail.com",
+    "telefono": "3514594228",
+    "objetivos": [
+      "resistencia",
+      "hyrox"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-10-05T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-04T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e60"
+    },
+    "dni": "41810654",
+    "nombre": "Florencia",
+    "apellido": "Aguirre",
+    "fecha_alta": {
+      "$date": "2026-05-07T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "florencia.aguirre80@mail.com",
+    "telefono": "3516825236",
+    "contacto_emergencia": {
+      "nombre": "Julieta Aguirre",
+      "telefono": "3516819034"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 10,
+      "fecha_inicio": {
+        "$date": "2026-10-12T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-11T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e63"
+    },
+    "dni": "34707570",
+    "nombre": "Thiago",
+    "apellido": "Benítez",
+    "fecha_alta": {
+      "$date": "2025-04-22T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "thiago.benitez58@mail.com",
+    "telefono": "3515505919",
+    "contacto_emergencia": {
+      "nombre": "Rocío Benítez",
+      "telefono": "3515610378"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 8,
+      "fecha_inicio": {
+        "$date": "2026-10-06T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-05T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e6c"
+    },
+    "dni": "39819191",
+    "nombre": "Paula",
+    "apellido": "Herrera",
+    "fecha_alta": {
+      "$date": "2025-07-27T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "paula.herrera35@mail.com",
+    "objetivos": [
+      "salud",
+      "fuerza",
+      "hyrox"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0d"
+      },
+      "nombre": "Libre",
+      "precio_pagado": 49500,
+      "cupos_totales": null,
+      "cupos_restantes": null,
+      "fecha_inicio": {
+        "$date": "2026-10-11T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-10T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e75"
+    },
+    "dni": "45318206",
+    "nombre": "Paula",
+    "apellido": "Núñez",
+    "fecha_alta": {
+      "$date": "2025-11-16T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "paula.nunez55@mail.com",
+    "telefono": "3516888163",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-11T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-10T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e77"
+    },
+    "dni": "33060136",
+    "nombre": "Abril",
+    "apellido": "Silva",
+    "fecha_alta": {
+      "$date": "2026-09-12T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "abril.silva1@mail.com",
+    "telefono": "3514326898",
+    "objetivos": [
+      "movilidad"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 4,
+      "fecha_inicio": {
+        "$date": "2026-10-09T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-08T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e7c"
+    },
+    "dni": "44843939",
+    "nombre": "Carolina",
+    "apellido": "Ortiz",
+    "fecha_alta": {
+      "$date": "2025-09-27T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3514421381",
+    "objetivos": [
+      "movilidad"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0d"
+      },
+      "nombre": "Libre",
+      "precio_pagado": 55000,
+      "cupos_totales": null,
+      "cupos_restantes": null,
+      "fecha_inicio": {
+        "$date": "2026-10-09T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-08T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e86"
+    },
+    "dni": "47156538",
+    "nombre": "Tomás",
+    "apellido": "Díaz",
+    "fecha_alta": {
+      "$date": "2025-06-21T03:00:00Z"
+    },
+    "estado": "activo",
+    "objetivos": [
+      "resistencia",
+      "movilidad"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 22500,
+      "cupos_totales": 8,
+      "cupos_restantes": 6,
+      "fecha_inicio": {
+        "$date": "2026-08-27T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-09-26T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e89"
+    },
+    "dni": "35497310",
+    "nombre": "Micaela",
+    "apellido": "González",
+    "fecha_alta": {
+      "$date": "2026-04-07T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "micaela.gonzalez45@mail.com",
+    "telefono": "3515087360",
+    "objetivos": [
+      "competir"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 25000,
+      "cupos_totales": 8,
+      "cupos_restantes": 0,
+      "fecha_inicio": {
+        "$date": "2026-09-13T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-13T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e92"
+    },
+    "dni": "32898617",
+    "nombre": "Tomás",
+    "apellido": "Herrera",
+    "fecha_alta": {
+      "$date": "2025-12-13T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "tomas.herrera2@mail.com",
+    "telefono": "3515223038",
+    "objetivos": [
+      "competir",
+      "movilidad"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Lautaro Herrera",
+      "telefono": "3516481731"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 0,
+      "fecha_inicio": {
+        "$date": "2026-08-30T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-09-29T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186e9b"
+    },
+    "dni": "33656521",
+    "nombre": "Rocío",
+    "apellido": "García",
+    "fecha_alta": {
+      "$date": "2026-07-07T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "rocio.garcia22@mail.com",
+    "telefono": "3515317151",
+    "objetivos": [
+      "bajar de peso",
+      "hyrox",
+      "resistencia"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Mateo García",
+      "telefono": "3514502953"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 0,
+      "fecha_inicio": {
+        "$date": "2026-09-07T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-07T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ea4"
+    },
+    "dni": "30989261",
+    "nombre": "Ignacio",
+    "apellido": "Cabrera",
+    "fecha_alta": {
+      "$date": "2026-08-05T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "ignacio.cabrera55@mail.com",
+    "telefono": "3514900584",
+    "contacto_emergencia": {
+      "nombre": "Gonzalo Cabrera",
+      "telefono": "3514623405"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 25000,
+      "cupos_totales": 8,
+      "cupos_restantes": 2,
+      "fecha_inicio": {
+        "$date": "2026-08-28T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-09-27T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eab"
+    },
+    "dni": "38091745",
+    "nombre": "Agustina",
+    "apellido": "Ramírez",
+    "fecha_alta": {
+      "$date": "2026-02-20T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustina.ramirez95@mail.com",
+    "telefono": "3514920278",
+    "objetivos": [
+      "bajar de peso",
+      "hyrox"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Benjamín Ramírez",
+      "telefono": "3516926057"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 25000,
+      "cupos_totales": 8,
+      "cupos_restantes": 1,
+      "fecha_inicio": {
+        "$date": "2026-09-16T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-16T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb3"
+    },
+    "dni": "37490597",
+    "nombre": "Ailín",
+    "apellido": "Aguirre",
+    "fecha_alta": {
+      "$date": "2026-08-06T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "ailin.aguirre23@mail.com",
+    "telefono": "3516887771",
+    "objetivos": [
+      "competir"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Ignacio Aguirre",
+      "telefono": "3516380195"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 27000,
+      "cupos_totales": 8,
+      "cupos_restantes": 4,
+      "fecha_inicio": {
+        "$date": "2026-08-28T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-09-27T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eb8"
+    },
+    "dni": "35581391",
+    "nombre": "Gonzalo",
+    "apellido": "Ortiz",
+    "fecha_alta": {
+      "$date": "2025-10-31T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3515588435",
+    "objetivos": [
+      "fuerza",
+      "resistencia"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0e"
+      },
+      "nombre": "Estudiante 8 clases",
+      "precio_pagado": 25000,
+      "cupos_totales": 8,
+      "cupos_restantes": 5,
+      "fecha_inicio": {
+        "$date": "2026-09-09T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-09T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ebc"
+    },
+    "dni": "31797032",
+    "nombre": "Agustín",
+    "apellido": "Romero",
+    "fecha_alta": {
+      "$date": "2026-04-23T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "agustin.romero27@mail.com",
+    "objetivos": [
+      "competir",
+      "salud",
+      "movilidad"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Joaquín Romero",
+      "telefono": "3515247388"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 3,
+      "fecha_inicio": {
+        "$date": "2026-09-15T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-15T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ec2"
+    },
+    "dni": "35071103",
+    "nombre": "Santiago",
+    "apellido": "Fernández",
+    "fecha_alta": {
+      "$date": "2025-06-18T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "santiago.fernandez86@mail.com",
+    "telefono": "3516802387",
+    "objetivos": [
+      "resistencia",
+      "movilidad",
+      "hyrox"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0b"
+      },
+      "nombre": "12 clases",
+      "precio_pagado": 38000,
+      "cupos_totales": 12,
+      "cupos_restantes": 4,
+      "fecha_inicio": {
+        "$date": "2026-08-31T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-09-30T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ecb"
+    },
+    "dni": "47972877",
+    "nombre": "Agustina",
+    "apellido": "Benítez",
+    "fecha_alta": {
+      "$date": "2026-10-18T03:00:00Z"
+    },
+    "estado": "activo",
+    "telefono": "3515107869",
+    "objetivos": [
+      "movilidad",
+      "salud"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Ailín Benítez",
+      "telefono": "3515155170"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ecc"
+    },
+    "dni": "31301325",
+    "nombre": "Carolina",
+    "apellido": "Castro",
+    "fecha_alta": {
+      "$date": "2026-10-19T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "carolina.castro43@mail.com",
+    "telefono": "3514206741"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ecd"
+    },
+    "dni": "40168836",
+    "nombre": "Martina",
+    "apellido": "Suárez",
+    "fecha_alta": {
+      "$date": "2026-10-19T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "martina.suarez63@mail.com",
+    "telefono": "3516872477",
+    "objetivos": [
+      "hyrox"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Gonzalo Suárez",
+      "telefono": "3515345819"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ece"
+    },
+    "dni": "36306075",
+    "nombre": "Juan Cruz",
+    "apellido": "Díaz",
+    "fecha_alta": {
+      "$date": "2026-10-17T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "juancruz.diaz53@mail.com",
+    "telefono": "3516166363"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ecf"
+    },
+    "dni": "40439558",
+    "nombre": "Paula",
+    "apellido": "López",
+    "fecha_alta": {
+      "$date": "2026-10-15T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "paula.lopez52@mail.com",
+    "telefono": "3516199015",
+    "contacto_emergencia": {
+      "nombre": "Rocío López",
+      "telefono": "3514841909"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed0"
+    },
+    "dni": "31109680",
+    "nombre": "Valentina",
+    "apellido": "Ramírez",
+    "fecha_alta": {
+      "$date": "2026-10-21T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "valentina.ramirez47@mail.com",
+    "telefono": "3515149144",
+    "objetivos": [
+      "movilidad",
+      "resistencia"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed1"
+    },
+    "dni": "42497910",
+    "nombre": "Martina",
+    "apellido": "Ramírez",
+    "fecha_alta": {
+      "$date": "2026-10-19T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "martina.ramirez58@mail.com",
+    "telefono": "3515990542",
+    "objetivos": [
+      "bajar de peso",
+      "hyrox"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed2"
+    },
+    "dni": "30921085",
+    "nombre": "Julieta",
+    "apellido": "Benítez",
+    "fecha_alta": {
+      "$date": "2025-04-23T03:00:00Z"
+    },
+    "estado": "inactivo",
+    "email": "julieta.benitez21@mail.com",
+    "telefono": "3514898917",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0f"
+      },
+      "nombre": "4 clases",
+      "precio_pagado": 18000,
+      "cupos_totales": 4,
+      "cupos_restantes": 1,
+      "fecha_inicio": {
+        "$date": "2026-05-01T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-05-31T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed6"
+    },
+    "dni": "40138306",
+    "nombre": "Milagros",
+    "apellido": "Luna",
+    "fecha_alta": {
+      "$date": "2025-05-28T03:00:00Z"
+    },
+    "estado": "inactivo",
+    "email": "milagros.luna80@mail.com",
+    "telefono": "3514429128",
+    "objetivos": [
+      "salud",
+      "bajar de peso",
+      "movilidad"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0f"
+      },
+      "nombre": "4 clases",
+      "precio_pagado": 18000,
+      "cupos_totales": 4,
+      "cupos_restantes": 4,
+      "fecha_inicio": {
+        "$date": "2026-04-27T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-05-27T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed7"
+    },
+    "dni": "40909789",
+    "nombre": "Facundo",
+    "apellido": "Acosta",
+    "fecha_alta": {
+      "$date": "2025-12-29T03:00:00Z"
+    },
+    "estado": "inactivo",
+    "telefono": "3516982543",
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0f"
+      },
+      "nombre": "4 clases",
+      "precio_pagado": 18000,
+      "cupos_totales": 4,
+      "cupos_restantes": 4,
+      "fecha_inicio": {
+        "$date": "2026-06-23T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-07-23T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed8"
+    },
+    "dni": "34695255",
+    "nombre": "Ignacio",
+    "apellido": "Herrera",
+    "fecha_alta": {
+      "$date": "2025-06-10T03:00:00Z"
+    },
+    "estado": "inactivo",
+    "email": "ignacio.herrera84@mail.com",
+    "telefono": "3515239855",
+    "objetivos": [
+      "resistencia",
+      "salud"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ed9"
+    },
+    "dni": "37461270",
+    "nombre": "Rocío",
+    "apellido": "Suárez",
+    "fecha_alta": {
+      "$date": "2025-01-11T03:00:00Z"
+    },
+    "estado": "inactivo",
+    "email": "rocio.suarez82@mail.com",
+    "telefono": "3516818020",
+    "objetivos": [
+      "salud",
+      "hyrox"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186eda"
+    },
+    "dni": "45796784",
+    "nombre": "Joaquín",
+    "apellido": "Martínez",
+    "fecha_alta": {
+      "$date": "2026-02-18T03:00:00Z"
+    },
+    "estado": "suspendido",
+    "email": "joaquin.martinez34@mail.com",
+    "telefono": "3516344748",
+    "contacto_emergencia": {
+      "nombre": "Facundo Martínez",
+      "telefono": "3516744897"
+    },
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0f"
+      },
+      "nombre": "4 clases",
+      "precio_pagado": 18000,
+      "cupos_totales": 4,
+      "cupos_restantes": 2,
+      "fecha_inicio": {
+        "$date": "2026-06-25T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-07-25T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186edd"
+    },
+    "dni": "47778430",
+    "nombre": "Florencia",
+    "apellido": "Molina",
+    "fecha_alta": {
+      "$date": "2025-10-25T03:00:00Z"
+    },
+    "estado": "suspendido",
+    "email": "florencia.molina7@mail.com",
+    "telefono": "3514632410",
+    "objetivos": [
+      "bajar de peso"
+    ],
+    "contacto_emergencia": {
+      "nombre": "Matías Molina",
+      "telefono": "3514600725"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ede"
+    },
+    "dni": "8456123",
+    "nombre": "María José",
+    "apellido": "De la Fuente",
+    "fecha_alta": {
+      "$date": "2024-05-04T03:00:00Z"
+    },
+    "estado": "activo",
+    "objetivos": [
+      "hyrox",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0a"
+      },
+      "nombre": "8 clases",
+      "precio_pagado": 30000,
+      "cupos_totales": 8,
+      "cupos_restantes": 7,
+      "fecha_inicio": {
+        "$date": "2026-10-16T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-11-15T03:00:00Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186ee0"
+    },
+    "dni": "30156670",
+    "nombre": "Bruno",
+    "apellido": "Molina",
+    "fecha_alta": {
+      "$date": "2025-09-16T03:00:00Z"
+    },
+    "estado": "activo",
+    "email": "bruno.molina26@mail.com",
+    "telefono": "3514059043",
+    "objetivos": [
+      "fuerza",
+      "hyrox",
+      "bajar de peso",
+      "resistencia",
+      "movilidad",
+      "competir",
+      "salud"
+    ],
+    "plan_actual": {
+      "plan_id": {
+        "$oid": "6ad8b892c81e807790186d0c"
+      },
+      "nombre": "16 clases",
+      "precio_pagado": 45000,
+      "cupos_totales": 16,
+      "cupos_restantes": 2,
+      "fecha_inicio": {
+        "$date": "2026-09-22T03:00:00Z"
+      },
+      "fecha_vencimiento": {
+        "$date": "2026-10-22T03:00:00Z"
+      }
+    }
+  }
+]

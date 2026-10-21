@@ -1,0 +1,19 @@
+planes: 6 | clientes: 92 | asistencias: 388 | total: 486
+
+[OK   ] Al menos 100 documentos en total — 486 documentos
+[OK   ] No hay DNI duplicados — 0 duplicados
+[OK   ] Toda asistencia apunta a un cliente existente
+[OK   ] Cupos usados coinciden con las asistencias del período
+[OK   ] No hay cupos negativos — 0 clientes
+[OK   ] No hay asistencias con fecha futura — 0 asistencias
+[OK   ] El validador rechaza un DNI con letras
+
+Casos límite:
+  Clientes sin plan asignado:     10
+  Clientes sin email:             15
+  Clientes con 0 cupos:           7
+  Clientes con plan libre:        6
+  Clientes con plan vencido:      14
+  Planes inactivos en catálogo:   1
+
+Todo en orden

@@ -1,0 +1,32 @@
+
+--- 1. Caso normal: cliente con cupos ---
+Cliente: Florencia Rodríguez (8 clases)
+Antes:   cupos = 5, asistencias = 3
+Después: cupos = 4, asistencias = 4 -> registrada
+RESULTADO: OK
+
+--- 2. Cliente sin cupos ---
+Cliente: Camila Romero (8 clases)
+Antes:   cupos = 0, asistencias = 8
+Después: cupos = 0, asistencias = 8 -> rechazada (sin cupos, plan vencido o cliente no activo)
+RESULTADO: OK
+
+--- 3. Cliente con plan vencido (aunque le quedan cupos) ---
+Cliente: Tomás Díaz (Estudiante 8 clases)
+Antes:   cupos = 6, asistencias = 2
+Después: cupos = 6, asistencias = 2 -> rechazada (sin cupos, plan vencido o cliente no activo)
+RESULTADO: OK
+
+--- 4. Con transacción: falla después de descontar el cupo ---
+Cliente: Florencia Rodríguez (8 clases)
+Antes:   cupos = 4, asistencias = 4
+Después: cupos = 4, asistencias = 4 -> rechazada (error después de descontar el cupo)
+RESULTADO: OK
+
+--- Sin transacción: falla después de descontar el cupo ---
+Antes:   cupos = 4, asistencias = 4
+Después: cupos = 3, asistencias = 4
+RESULTADO: el cliente perdió un cupo sin asistencia registrada (inconsistencia)
+(cambio revertido)
+
+4/4 pruebas OK

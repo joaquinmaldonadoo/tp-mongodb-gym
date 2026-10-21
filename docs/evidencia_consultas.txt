@@ -1,0 +1,1125 @@
+
+=== Consulta 1: Clientes con 2 cupos o menos (11 resultados) ===
+{
+  dni: '47922760',
+  nombre: 'Camila',
+  apellido: 'Romero',
+  telefono: '3515132243',
+  plan_actual: {
+    nombre: '8 clases',
+    cupos_restantes: 0
+  }
+}
+{
+  dni: '38837869',
+  nombre: 'Matías',
+  apellido: 'González',
+  telefono: '3516129371',
+  plan_actual: {
+    nombre: 'Estudiante 8 clases',
+    cupos_restantes: 0
+  }
+}
+{
+  dni: '43636992',
+  nombre: 'Catalina',
+  apellido: 'Romero',
+  telefono: '3514245934',
+  plan_actual: {
+    nombre: '16 clases',
+    cupos_restantes: 0
+  }
+}
+{
+  dni: '40098202',
+  nombre: 'Franco',
+  apellido: 'Sosa',
+  telefono: '3514881570',
+  plan_actual: {
+    nombre: '12 clases',
+    cupos_restantes: 0
+  }
+}
+{
+  dni: '43505944',
+  nombre: 'Matías',
+  apellido: 'Medina',
+  telefono: '3516071127',
+  plan_actual: {
+    nombre: '8 clases',
+    cupos_restantes: 1
+  }
+}
+{
+  dni: '39154893',
+  nombre: 'Micaela',
+  apellido: 'Luna',
+  telefono: '3515924826',
+  plan_actual: {
+    nombre: '8 clases',
+    cupos_restantes: 1
+  }
+}
+{
+  dni: '45535832',
+  nombre: 'Martina',
+  apellido: 'Medina',
+  telefono: '3515590800',
+  plan_actual: {
+    nombre: '8 clases',
+    cupos_restantes: 1
+  }
+}
+{
+  dni: '43920656',
+  nombre: 'Milagros',
+  apellido: 'López',
+  telefono: '3514261161',
+  plan_actual: {
+    nombre: 'Estudiante 8 clases',
+    cupos_restantes: 2
+  }
+}
+{
+  dni: '46863556',
+  nombre: 'Tomás',
+  apellido: 'Díaz',
+  plan_actual: {
+    nombre: '8 clases',
+    cupos_restantes: 2
+  }
+}
+{
+  dni: '41326777',
+  nombre: 'Catalina',
+  apellido: 'Cabrera',
+  plan_actual: {
+    nombre: '8 clases',
+    cupos_restantes: 2
+  }
+}
+{
+  dni: '30156670',
+  nombre: 'Bruno',
+  apellido: 'Molina',
+  telefono: '3514059043',
+  plan_actual: {
+    nombre: '16 clases',
+    cupos_restantes: 2
+  }
+}
+
+=== Consulta 2: Planes que vencen en los próximos 7 días (13 resultados) ===
+{
+  nombre: 'Bruno',
+  apellido: 'Molina',
+  email: 'bruno.molina26@mail.com',
+  plan_actual: {
+    nombre: '16 clases',
+    fecha_vencimiento: ISODate('2026-10-22T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Franco',
+  apellido: 'Sosa',
+  email: 'franco.sosa1@mail.com',
+  plan_actual: {
+    nombre: '12 clases',
+    fecha_vencimiento: ISODate('2026-10-24T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Julieta',
+  apellido: 'Silva',
+  email: 'julieta.silva47@mail.com',
+  plan_actual: {
+    nombre: '8 clases',
+    fecha_vencimiento: ISODate('2026-10-24T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Agustín',
+  apellido: 'García',
+  email: 'agustin.garcia89@mail.com',
+  plan_actual: {
+    nombre: 'Libre',
+    fecha_vencimiento: ISODate('2026-10-24T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Milagros',
+  apellido: 'López',
+  email: 'milagros.lopez70@mail.com',
+  plan_actual: {
+    nombre: 'Estudiante 8 clases',
+    fecha_vencimiento: ISODate('2026-10-25T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Paula',
+  apellido: 'Medina',
+  email: 'paula.medina40@mail.com',
+  plan_actual: {
+    nombre: '8 clases',
+    fecha_vencimiento: ISODate('2026-10-25T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Catalina',
+  apellido: 'Romero',
+  email: 'catalina.romero28@mail.com',
+  plan_actual: {
+    nombre: '16 clases',
+    fecha_vencimiento: ISODate('2026-10-26T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Martina',
+  apellido: 'Medina',
+  email: 'martina.medina70@mail.com',
+  plan_actual: {
+    nombre: '8 clases',
+    fecha_vencimiento: ISODate('2026-10-26T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Catalina',
+  apellido: 'Cabrera',
+  email: 'catalina.cabrera63@mail.com',
+  plan_actual: {
+    nombre: '8 clases',
+    fecha_vencimiento: ISODate('2026-10-26T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Ignacio',
+  apellido: 'Fernández',
+  email: 'ignacio.fernandez28@mail.com',
+  plan_actual: {
+    nombre: '12 clases',
+    fecha_vencimiento: ISODate('2026-10-27T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Sofía',
+  apellido: 'Núñez',
+  email: 'sofia.nunez61@mail.com',
+  plan_actual: {
+    nombre: '8 clases',
+    fecha_vencimiento: ISODate('2026-10-27T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Martina',
+  apellido: 'Juárez',
+  plan_actual: {
+    nombre: '8 clases',
+    fecha_vencimiento: ISODate('2026-10-27T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Matías',
+  apellido: 'Medina',
+  plan_actual: {
+    nombre: '8 clases',
+    fecha_vencimiento: ISODate('2026-10-28T03:00:00.000Z')
+  }
+}
+
+=== Consulta 3: Activos con plan de 12 clases o sin email (34 resultados) ===
+{
+  nombre: 'Matías',
+  apellido: 'González',
+  plan_actual: {
+    nombre: 'Estudiante 8 clases'
+  }
+}
+{
+  nombre: 'Valentina',
+  apellido: 'Ruiz',
+  plan_actual: {
+    nombre: '8 clases'
+  }
+}
+{
+  nombre: 'Carolina',
+  apellido: 'Gómez',
+  email: 'carolina.gomez19@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Florencia',
+  apellido: 'Molina',
+  email: 'florencia.molina91@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Franco',
+  apellido: 'Sosa',
+  email: 'franco.sosa1@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Catalina',
+  apellido: 'Juárez',
+  email: 'catalina.juarez3@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Micaela',
+  apellido: 'Cabrera',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Matías',
+  apellido: 'Medina',
+  plan_actual: {
+    nombre: '8 clases'
+  }
+}
+{
+  nombre: 'Thiago',
+  apellido: 'Sánchez',
+  email: 'thiago.sanchez45@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Matías',
+  apellido: 'Flores',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Micaela',
+  apellido: 'Díaz',
+  email: 'micaela.diaz54@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Nicolás',
+  apellido: 'González',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Ignacio',
+  apellido: 'Fernández',
+  email: 'ignacio.fernandez28@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Gonzalo',
+  apellido: 'Herrera',
+  email: 'gonzalo.herrera9@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Gonzalo',
+  apellido: 'Ruiz',
+  email: 'gonzalo.ruiz61@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Agustín',
+  apellido: 'Pérez',
+  email: 'agustin.perez16@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Ailín',
+  apellido: 'Díaz',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Carolina',
+  apellido: 'Núñez',
+  email: 'carolina.nunez98@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Ignacio',
+  apellido: 'Juárez',
+  email: 'ignacio.juarez53@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Juan Cruz',
+  apellido: 'Ramírez',
+  email: 'juancruz.ramirez74@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Agustín',
+  apellido: 'García',
+  email: 'agustin.garcia98@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Martina',
+  apellido: 'Juárez',
+  plan_actual: {
+    nombre: '8 clases'
+  }
+}
+{
+  nombre: 'Mateo',
+  apellido: 'Juárez',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Rocío',
+  apellido: 'Benítez',
+  email: 'rocio.benitez8@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Gonzalo',
+  apellido: 'Giménez',
+  email: 'gonzalo.gimenez25@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Camila',
+  apellido: 'Romero',
+  email: 'camila.romero39@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Martina',
+  apellido: 'Juárez',
+  email: 'martina.juarez11@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Florencia',
+  apellido: 'Aguirre',
+  email: 'florencia.aguirre80@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Carolina',
+  apellido: 'Ortiz',
+  plan_actual: {
+    nombre: 'Libre'
+  }
+}
+{
+  nombre: 'Tomás',
+  apellido: 'Díaz',
+  plan_actual: {
+    nombre: 'Estudiante 8 clases'
+  }
+}
+{
+  nombre: 'Gonzalo',
+  apellido: 'Ortiz',
+  plan_actual: {
+    nombre: 'Estudiante 8 clases'
+  }
+}
+{
+  nombre: 'Santiago',
+  apellido: 'Fernández',
+  email: 'santiago.fernandez86@mail.com',
+  plan_actual: {
+    nombre: '12 clases'
+  }
+}
+{
+  nombre: 'Agustina',
+  apellido: 'Benítez'
+}
+{
+  nombre: 'María José',
+  apellido: 'De la Fuente',
+  plan_actual: {
+    nombre: '8 clases'
+  }
+}
+
+=== Consulta 4: Plan 8 clases con la mitad de los cupos usados (3 resultados) ===
+{
+  nombre: 'Valentina',
+  apellido: 'Ruiz',
+  contacto_emergencia: {
+    nombre: 'Micaela Ruiz'
+  },
+  plan_actual: {
+    plan_id: ObjectId('6ad8b892c81e807790186d0a'),
+    nombre: '8 clases',
+    precio_pagado: 30000,
+    cupos_totales: 8,
+    cupos_restantes: 3,
+    fecha_inicio: ISODate('2026-10-04T03:00:00.000Z'),
+    fecha_vencimiento: ISODate('2026-11-03T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Tomás',
+  apellido: 'Díaz',
+  contacto_emergencia: {
+    nombre: 'Sofía Díaz'
+  },
+  plan_actual: {
+    plan_id: ObjectId('6ad8b892c81e807790186d0a'),
+    nombre: '8 clases',
+    precio_pagado: 30000,
+    cupos_totales: 8,
+    cupos_restantes: 2,
+    fecha_inicio: ISODate('2026-09-29T03:00:00.000Z'),
+    fecha_vencimiento: ISODate('2026-10-29T03:00:00.000Z')
+  }
+}
+{
+  nombre: 'Martina',
+  apellido: 'Medina',
+  contacto_emergencia: {
+    nombre: 'Nicolás Medina'
+  },
+  plan_actual: {
+    plan_id: ObjectId('6ad8b892c81e807790186d0a'),
+    nombre: '8 clases',
+    precio_pagado: 30000,
+    cupos_totales: 8,
+    cupos_restantes: 1,
+    fecha_inicio: ISODate('2026-09-26T03:00:00.000Z'),
+    fecha_vencimiento: ISODate('2026-10-26T03:00:00.000Z')
+  }
+}
+
+=== Consulta 5a: Clientes con objetivo hyrox (23 resultados) ===
+{
+  nombre: 'Paula',
+  apellido: 'Medina',
+  objetivos: [
+    'hyrox',
+    'fuerza',
+    'movilidad'
+  ]
+}
+{
+  nombre: 'Micaela',
+  apellido: 'Cabrera',
+  objetivos: [
+    'hyrox',
+    'fuerza'
+  ]
+}
+{
+  nombre: 'Thiago',
+  apellido: 'Sánchez',
+  objetivos: [
+    'salud',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Agustina',
+  apellido: 'Núñez',
+  objetivos: [
+    'resistencia',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Benjamín',
+  apellido: 'Ruiz',
+  objetivos: [
+    'fuerza',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Tomás',
+  apellido: 'Suárez',
+  objetivos: [
+    'hyrox',
+    'bajar de peso',
+    'competir'
+  ]
+}
+{
+  nombre: 'Julieta',
+  apellido: 'Silva',
+  objetivos: [
+    'hyrox',
+    'salud'
+  ]
+}
+{
+  nombre: 'Agustín',
+  apellido: 'García',
+  objetivos: [
+    'movilidad',
+    'hyrox',
+    'bajar de peso'
+  ]
+}
+{
+  nombre: 'Rocío',
+  apellido: 'Benítez',
+  objetivos: [
+    'hyrox',
+    'movilidad',
+    'fuerza'
+  ]
+}
+{
+  nombre: 'Micaela',
+  apellido: 'Luna',
+  objetivos: [
+    'hyrox',
+    'fuerza',
+    'bajar de peso'
+  ]
+}
+{
+  nombre: 'Lautaro',
+  apellido: 'López',
+  objetivos: [
+    'hyrox',
+    'salud',
+    'bajar de peso'
+  ]
+}
+{
+  nombre: 'Gonzalo',
+  apellido: 'Giménez',
+  objetivos: [
+    'fuerza',
+    'salud',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Catalina',
+  apellido: 'Cabrera',
+  objetivos: [
+    'resistencia',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Martina',
+  apellido: 'Juárez',
+  objetivos: [
+    'resistencia',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Paula',
+  apellido: 'Herrera',
+  objetivos: [
+    'salud',
+    'fuerza',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Rocío',
+  apellido: 'García',
+  objetivos: [
+    'bajar de peso',
+    'hyrox',
+    'resistencia'
+  ]
+}
+{
+  nombre: 'Agustina',
+  apellido: 'Ramírez',
+  objetivos: [
+    'bajar de peso',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Santiago',
+  apellido: 'Fernández',
+  objetivos: [
+    'resistencia',
+    'movilidad',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Martina',
+  apellido: 'Suárez',
+  objetivos: [
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Martina',
+  apellido: 'Ramírez',
+  objetivos: [
+    'bajar de peso',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Rocío',
+  apellido: 'Suárez',
+  objetivos: [
+    'salud',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'María José',
+  apellido: 'De la Fuente',
+  objetivos: [
+    'hyrox',
+    'salud'
+  ]
+}
+{
+  nombre: 'Bruno',
+  apellido: 'Molina',
+  objetivos: [
+    'fuerza',
+    'hyrox',
+    'bajar de peso',
+    'resistencia',
+    'movilidad',
+    'competir',
+    'salud'
+  ]
+}
+
+=== Consulta 5b: Clientes con objetivos hyrox y fuerza (8 resultados) ===
+{
+  nombre: 'Paula',
+  apellido: 'Medina',
+  objetivos: [
+    'hyrox',
+    'fuerza',
+    'movilidad'
+  ]
+}
+{
+  nombre: 'Micaela',
+  apellido: 'Cabrera',
+  objetivos: [
+    'hyrox',
+    'fuerza'
+  ]
+}
+{
+  nombre: 'Benjamín',
+  apellido: 'Ruiz',
+  objetivos: [
+    'fuerza',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Rocío',
+  apellido: 'Benítez',
+  objetivos: [
+    'hyrox',
+    'movilidad',
+    'fuerza'
+  ]
+}
+{
+  nombre: 'Micaela',
+  apellido: 'Luna',
+  objetivos: [
+    'hyrox',
+    'fuerza',
+    'bajar de peso'
+  ]
+}
+{
+  nombre: 'Gonzalo',
+  apellido: 'Giménez',
+  objetivos: [
+    'fuerza',
+    'salud',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Paula',
+  apellido: 'Herrera',
+  objetivos: [
+    'salud',
+    'fuerza',
+    'hyrox'
+  ]
+}
+{
+  nombre: 'Bruno',
+  apellido: 'Molina',
+  objetivos: [
+    'fuerza',
+    'hyrox',
+    'bajar de peso',
+    'resistencia',
+    'movilidad',
+    'competir',
+    'salud'
+  ]
+}
+
+=== Consulta 6: Últimas 10 altas (10 resultados) ===
+{
+  nombre: 'Valentina',
+  apellido: 'Ramírez',
+  fecha_alta: ISODate('2026-10-21T03:00:00.000Z')
+}
+{
+  nombre: 'Carolina',
+  apellido: 'Castro',
+  fecha_alta: ISODate('2026-10-19T03:00:00.000Z')
+}
+{
+  nombre: 'Martina',
+  apellido: 'Ramírez',
+  fecha_alta: ISODate('2026-10-19T03:00:00.000Z')
+}
+{
+  nombre: 'Martina',
+  apellido: 'Suárez',
+  fecha_alta: ISODate('2026-10-19T03:00:00.000Z')
+}
+{
+  nombre: 'Agustina',
+  apellido: 'Benítez',
+  fecha_alta: ISODate('2026-10-18T03:00:00.000Z')
+}
+{
+  nombre: 'Juan Cruz',
+  apellido: 'Díaz',
+  fecha_alta: ISODate('2026-10-17T03:00:00.000Z')
+}
+{
+  nombre: 'Paula',
+  apellido: 'López',
+  fecha_alta: ISODate('2026-10-15T03:00:00.000Z')
+}
+{
+  nombre: 'Abril',
+  apellido: 'Silva',
+  fecha_alta: ISODate('2026-09-12T03:00:00.000Z')
+}
+{
+  nombre: 'Milagros',
+  apellido: 'López',
+  fecha_alta: ISODate('2026-09-01T03:00:00.000Z')
+}
+{
+  nombre: 'Matías',
+  apellido: 'Medina',
+  fecha_alta: ISODate('2026-08-26T03:00:00.000Z')
+}
+
+=== Consulta 7: Asistencias por día de la semana (6 resultados) ===
+{
+  asistencias: 97,
+  dia: 'Lunes'
+}
+{
+  asistencias: 92,
+  dia: 'Martes'
+}
+{
+  asistencias: 64,
+  dia: 'Jueves'
+}
+{
+  asistencias: 61,
+  dia: 'Miércoles'
+}
+{
+  asistencias: 43,
+  dia: 'Viernes'
+}
+{
+  asistencias: 30,
+  dia: 'Sábado'
+}
+
+=== Consulta 8: Asistencias por actividad y franja horaria (15 resultados) ===
+{
+  asistencias: 70,
+  actividad: 'musculacion',
+  franja: 'tarde-noche (17-21)'
+}
+{
+  asistencias: 54,
+  actividad: 'funcional',
+  franja: 'tarde-noche (17-21)'
+}
+{
+  asistencias: 50,
+  actividad: 'crossfit',
+  franja: 'tarde-noche (17-21)'
+}
+{
+  asistencias: 43,
+  actividad: 'funcional',
+  franja: 'mañana (7-11)'
+}
+{
+  asistencias: 35,
+  actividad: 'hyrox',
+  franja: 'tarde-noche (17-21)'
+}
+{
+  asistencias: 33,
+  actividad: 'musculacion',
+  franja: 'mañana (7-11)'
+}
+{
+  asistencias: 24,
+  actividad: 'crossfit',
+  franja: 'mañana (7-11)'
+}
+{
+  asistencias: 23,
+  actividad: 'hyrox',
+  franja: 'mañana (7-11)'
+}
+{
+  asistencias: 11,
+  actividad: 'funcional',
+  franja: 'mediodía (12-16)'
+}
+{
+  asistencias: 10,
+  actividad: 'crossfit',
+  franja: 'mediodía (12-16)'
+}
+{
+  asistencias: 10,
+  actividad: 'movilidad',
+  franja: 'tarde-noche (17-21)'
+}
+{
+  asistencias: 9,
+  actividad: 'movilidad',
+  franja: 'mañana (7-11)'
+}
+{
+  asistencias: 9,
+  actividad: 'musculacion',
+  franja: 'mediodía (12-16)'
+}
+{
+  asistencias: 5,
+  actividad: 'hyrox',
+  franja: 'mediodía (12-16)'
+}
+{
+  asistencias: 1,
+  actividad: 'movilidad',
+  franja: 'mediodía (12-16)'
+}
+
+=== Consulta 9: Uso de cupos por plan (4 resultados) ===
+{
+  clientes: 4,
+  minimo_usados: 1,
+  maximo_usados: 8,
+  cupos_del_plan: 8,
+  plan: 'Estudiante 8 clases',
+  promedio_usados: 4,
+  porcentaje_uso: 50
+}
+{
+  clientes: 23,
+  minimo_usados: 1,
+  maximo_usados: 8,
+  cupos_del_plan: 8,
+  plan: '8 clases',
+  promedio_usados: 3.8,
+  porcentaje_uso: 47.3
+}
+{
+  clientes: 11,
+  minimo_usados: 1,
+  maximo_usados: 16,
+  cupos_del_plan: 16,
+  plan: '16 clases',
+  promedio_usados: 6.3,
+  porcentaje_uso: 39.2
+}
+{
+  clientes: 24,
+  minimo_usados: 1,
+  maximo_usados: 12,
+  cupos_del_plan: 12,
+  plan: '12 clases',
+  promedio_usados: 4.4,
+  porcentaje_uso: 36.5
+}
+
+=== Consulta 10: Ranking de constancia de los últimos 30 días (10 resultados) ===
+{
+  asistencias: 16,
+  ultima_vez: ISODate('2026-10-20T11:35:00.000Z'),
+  actividades: [
+    'hyrox',
+    'musculacion',
+    'funcional',
+    'movilidad',
+    'crossfit'
+  ],
+  cliente: 'Catalina Romero',
+  plan: '16 clases'
+}
+{
+  asistencias: 14,
+  ultima_vez: ISODate('2026-10-20T00:10:00.000Z'),
+  actividades: [
+    'hyrox',
+    'crossfit',
+    'movilidad',
+    'funcional',
+    'musculacion'
+  ],
+  cliente: 'Bruno Molina',
+  plan: '16 clases'
+}
+{
+  asistencias: 12,
+  ultima_vez: ISODate('2026-10-19T22:05:00.000Z'),
+  actividades: [
+    'hyrox',
+    'crossfit',
+    'musculacion',
+    'funcional'
+  ],
+  cliente: 'Franco Sosa',
+  plan: '12 clases'
+}
+{
+  asistencias: 11,
+  ultima_vez: ISODate('2026-10-20T10:10:00.000Z'),
+  actividades: [
+    'musculacion',
+    'funcional',
+    'crossfit',
+    'hyrox'
+  ],
+  cliente: 'Agustina Giménez',
+  plan: '16 clases'
+}
+{
+  asistencias: 10,
+  ultima_vez: ISODate('2026-10-20T11:30:00.000Z'),
+  actividades: [
+    'hyrox',
+    'movilidad',
+    'funcional',
+    'musculacion'
+  ],
+  cliente: 'Ailín García',
+  plan: 'Libre'
+}
+{
+  asistencias: 10,
+  ultima_vez: ISODate('2026-10-19T11:45:00.000Z'),
+  actividades: [
+    'musculacion',
+    'hyrox',
+    'funcional'
+  ],
+  cliente: 'Agustín García',
+  plan: 'Libre'
+}
+{
+  asistencias: 9,
+  ultima_vez: ISODate('2026-10-21T00:45:00.000Z'),
+  actividades: [
+    'musculacion',
+    'movilidad',
+    'crossfit',
+    'hyrox'
+  ],
+  cliente: 'Carolina Ortiz',
+  plan: 'Libre'
+}
+{
+  asistencias: 9,
+  ultima_vez: ISODate('2026-10-20T22:15:00.000Z'),
+  actividades: [
+    'funcional',
+    'crossfit',
+    'musculacion',
+    'hyrox'
+  ],
+  cliente: 'Carolina Gómez',
+  plan: '12 clases'
+}
+{
+  asistencias: 8,
+  ultima_vez: ISODate('2026-10-20T23:00:00.000Z'),
+  actividades: [
+    'hyrox',
+    'musculacion',
+    'movilidad',
+    'funcional',
+    'crossfit'
+  ],
+  cliente: 'Paula Herrera',
+  plan: 'Libre'
+}
+{
+  asistencias: 8,
+  ultima_vez: ISODate('2026-10-20T21:15:00.000Z'),
+  actividades: [
+    'musculacion',
+    'funcional'
+  ],
+  cliente: 'Matías González',
+  plan: 'Estudiante 8 clases'
+}

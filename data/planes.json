@@ -1,0 +1,96 @@
+[
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d0a"
+    },
+    "nombre": "8 clases",
+    "precio": 30000,
+    "cupos_mensuales": 8,
+    "duracion_dias": 30,
+    "actividades_incluidas": [
+      "crossfit",
+      "funcional",
+      "musculacion"
+    ],
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d0b"
+    },
+    "nombre": "12 clases",
+    "precio": 38000,
+    "cupos_mensuales": 12,
+    "duracion_dias": 30,
+    "actividades_incluidas": [
+      "crossfit",
+      "funcional",
+      "musculacion",
+      "hyrox"
+    ],
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d0c"
+    },
+    "nombre": "16 clases",
+    "precio": 45000,
+    "cupos_mensuales": 16,
+    "duracion_dias": 30,
+    "actividades_incluidas": [
+      "crossfit",
+      "funcional",
+      "musculacion",
+      "hyrox",
+      "movilidad"
+    ],
+    "activo": true
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d0d"
+    },
+    "nombre": "Libre",
+    "precio": 55000,
+    "duracion_dias": 30,
+    "actividades_incluidas": [
+      "crossfit",
+      "funcional",
+      "musculacion",
+      "hyrox",
+      "movilidad"
+    ],
+    "activo": true,
+    "descripcion": "Acceso ilimitado a todas las actividades"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d0e"
+    },
+    "nombre": "Estudiante 8 clases",
+    "precio": 25000,
+    "cupos_mensuales": 8,
+    "duracion_dias": 30,
+    "actividades_incluidas": [
+      "funcional",
+      "musculacion"
+    ],
+    "activo": true,
+    "descripcion": "Requiere certificado de alumno regular"
+  },
+  {
+    "_id": {
+      "$oid": "6ad8b892c81e807790186d0f"
+    },
+    "nombre": "4 clases",
+    "precio": 18000,
+    "cupos_mensuales": 4,
+    "duracion_dias": 30,
+    "actividades_incluidas": [
+      "musculacion"
+    ],
+    "activo": false,
+    "descripcion": "Discontinuado en 2026"
+  }
+]
