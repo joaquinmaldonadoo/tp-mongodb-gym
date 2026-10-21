@@ -299,6 +299,9 @@ def asignar_plan(cliente, plan, inicio_local, usados_objetivo, forzar_agotado=Fa
 
 
 def generar_datos():
+    # Se reinicia la semilla para que cada carga genere exactamente los mismos datos
+    rng.seed(42)
+    dnis_usados.clear()
     planes = generar_planes()
     por_nombre = {p["nombre"]: p for p in planes}
     planes_vigentes = ["8 clases", "12 clases", "16 clases", "Estudiante 8 clases", "Libre"]
@@ -379,20 +382,15 @@ def exportar(nombre, documentos):
     ruta.write_text(json_util.dumps(documentos, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def main():
+def cargar(db):
+    """Crea las colecciones con sus validadores e inserta los datos en `db`. La usan también los tests."""
     planes, clientes, asistencias = generar_datos()
 
-    cliente = MongoClient(MONGO_URI)
-    db = cliente[MONGO_DB]
-
-    print(f"Conectado a {MONGO_URI} — base '{MONGO_DB}'")
-    cliente.drop_database(MONGO_DB)
-    print("Base anterior borrada")
-
+    for nombre in ("planes", "clientes", "asistencias"):
+        db.drop_collection(nombre)
     db.create_collection("planes", validator=VALIDADOR_PLANES)
     db.create_collection("clientes", validator=VALIDADOR_CLIENTES)
     db.create_collection("asistencias", validator=VALIDADOR_ASISTENCIAS)
-    print("Colecciones creadas con validación de esquema")
 
     # Índice único: dos clientes no pueden tener el mismo DNI (es una regla del negocio,
     # por eso va en la carga y no solo en el script de índices)
@@ -401,6 +399,19 @@ def main():
     db.planes.insert_many(planes)
     db.clientes.insert_many(clientes)
     db.asistencias.insert_many(asistencias)
+    return planes, clientes, asistencias
+
+
+def main():
+    cliente = MongoClient(MONGO_URI)
+    db = cliente[MONGO_DB]
+
+    print(f"Conectado a {MONGO_URI} — base '{MONGO_DB}'")
+    cliente.drop_database(MONGO_DB)
+    print("Base anterior borrada")
+
+    planes, clientes, asistencias = cargar(db)
+    print("Colecciones creadas con validación de esquema")
 
     exportar("planes", planes)
     exportar("clientes", clientes)

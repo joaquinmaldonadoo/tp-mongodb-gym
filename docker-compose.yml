@@ -18,5 +18,18 @@ services:
       retries: 20
       start_period: 5s
 
+  api:
+    build: ./api
+    container_name: gym-api
+    environment:
+      # Dentro de la red de Docker, Mongo se llama "mongo" (el nombre del servicio), no localhost
+      MONGO_URI: mongodb://mongo:27017/?replicaSet=rs0
+      MONGO_DB: ${MONGO_DB:-gym}
+    ports:
+      - "${API_PORT:-8000}:8000"
+    depends_on:
+      mongo:
+        condition: service_healthy   # espera a que el replica set esté listo
+
 volumes:
   mongo_data:
